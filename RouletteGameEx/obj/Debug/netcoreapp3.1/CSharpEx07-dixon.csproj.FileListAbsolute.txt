@@ -1,0 +1,13 @@
+C:\Users\supre\MSSA2021\Csharp\CSharpEx07-dixon\bin\Debug\netcoreapp3.1\CSharpEx07-dixon.exe
+C:\Users\supre\MSSA2021\Csharp\CSharpEx07-dixon\bin\Debug\netcoreapp3.1\CSharpEx07-dixon.deps.json
+C:\Users\supre\MSSA2021\Csharp\CSharpEx07-dixon\bin\Debug\netcoreapp3.1\CSharpEx07-dixon.runtimeconfig.json
+C:\Users\supre\MSSA2021\Csharp\CSharpEx07-dixon\bin\Debug\netcoreapp3.1\CSharpEx07-dixon.runtimeconfig.dev.json
+C:\Users\supre\MSSA2021\Csharp\CSharpEx07-dixon\bin\Debug\netcoreapp3.1\CSharpEx07-dixon.dll
+C:\Users\supre\MSSA2021\Csharp\CSharpEx07-dixon\bin\Debug\netcoreapp3.1\CSharpEx07-dixon.pdb
+C:\Users\supre\MSSA2021\Csharp\CSharpEx07-dixon\obj\Debug\netcoreapp3.1\CSharpEx07-dixon.csprojAssemblyReference.cache
+C:\Users\supre\MSSA2021\Csharp\CSharpEx07-dixon\obj\Debug\netcoreapp3.1\CSharpEx07-dixon.AssemblyInfoInputs.cache
+C:\Users\supre\MSSA2021\Csharp\CSharpEx07-dixon\obj\Debug\netcoreapp3.1\CSharpEx07-dixon.AssemblyInfo.cs
+C:\Users\supre\MSSA2021\Csharp\CSharpEx07-dixon\obj\Debug\netcoreapp3.1\CSharpEx07-dixon.csproj.CoreCompileInputs.cache
+C:\Users\supre\MSSA2021\Csharp\CSharpEx07-dixon\obj\Debug\netcoreapp3.1\CSharpEx07-dixon.dll
+C:\Users\supre\MSSA2021\Csharp\CSharpEx07-dixon\obj\Debug\netcoreapp3.1\CSharpEx07-dixon.pdb
+C:\Users\supre\MSSA2021\Csharp\CSharpEx07-dixon\obj\Debug\netcoreapp3.1\CSharpEx07-dixon.genruntimeconfig.cache
